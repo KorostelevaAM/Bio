@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <users>
     <user>
-        <name>Tom</name>
+        <name>Иван</name>
         <age>36</age>
     </user>
     <user>
-        <name>Alice</name>
+        <name>Ромн</name>
         <age>32</age>
     </user>
     <user>
-        <name>Bob</name>
+        <name>Петр</name>
         <age>28</age>
     </user>
 </users>
